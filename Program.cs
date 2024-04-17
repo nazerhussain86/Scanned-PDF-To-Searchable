@@ -13,7 +13,7 @@ namespace PdfKitTest
             @"D:\Nazer_Hussain\a_Reading_Files\CargomenPDfReading\1\INV-250.pdf";
             @"C:\Users\User\Downloads\MG01-1406-4-8.pdf";
             LicenseManager licenseManager = new LicenseManager();
-            licenseManager.RegisterKEY("0414524817274085752481356");
+            licenseManager.RegisterKEY("your_key");
              */
             string sourceFilePath = @"C:\Users\User\Downloads\INV_YAZAKI INDIA BOAT_1224.pdf";
             string ocrDataPath = @"D:\GdPicture.NET 14\Redist\OCR";
